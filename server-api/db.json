@@ -1,0 +1,5076 @@
+{
+  "classes": [
+    {
+      "id": "1",
+      "name": "CSE S6",
+      "semesters": 6,
+      "tutorId": "11",
+      "teacher": "Mr",
+      "studentsCount": 77,
+      "archived": false,
+      "internals": [
+        {
+          "semester": "5",
+          "fileUrl": "/internals-pdfs/1/semester-5.pdf",
+          "extractedData": {
+            "metadata": {
+              "university": "APJ Abdul Kalam Technological University",
+              "reportTitle": "Student Exam Eligibility Report",
+              "generationDate": ""
+            },
+            "subjects": [
+              {
+                "code": "MCN301",
+                "name": "Disaster Management"
+              },
+              {
+                "code": "CST301",
+                "name": "Formal Languages and Automata Theory"
+              },
+              {
+                "code": "CST303",
+                "name": "Computer Networks"
+              },
+              {
+                "code": "CST305",
+                "name": "System Software"
+              },
+              {
+                "code": "CST307",
+                "name": "Microprocessors and Microcontrollers"
+              },
+              {
+                "code": "CST309",
+                "name": "Management of Software Systems"
+              },
+              {
+                "code": "CSL331",
+                "name": "System Software and Microprocessors Lab"
+              },
+              {
+                "code": "CSL333",
+                "name": "Database Management Systems Lab"
+              },
+              {
+                "code": "CST395",
+                "name": "Neural Networks and Deep Learning"
+              }
+            ],
+            "students": [
+              {
+                "registerNo": "LTCR22CS071",
+                "name": "ANILA MOL HARIDAS",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "LTCR22CS072",
+                "name": "BADUSHA PAREED",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "75.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "LTCR22CS073",
+                "name": "HADAYAT AKBER",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "75.00",
+                    "I": "33.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "76.00",
+                    "I": "25.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "77.00",
+                    "I": "26.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "76.00",
+                    "I": "23.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "92.00",
+                    "I": "63.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "82.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "LTCR22CS074",
+                "name": "MANJUDAS P H",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "82.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "LTCR22CS075",
+                "name": "NAKHILESH I P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "34.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "LTCR22CS076",
+                "name": "SIVANI A P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "30.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "82.00",
+                    "I": "64.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "LTCR22CS077",
+                "name": "SREELESH P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "79.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "84.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "82.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "65.00",
+                    "I": "31.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "83.00",
+                    "I": "65.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "82.00",
+                    "I": "67.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "NSS22CS040",
+                "name": "MOHAMMED FAYIZ T",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR20CS001",
+                "name": "A ABHIJIT",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "75.00",
+                    "I": "52.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR20CS007",
+                "name": "ABHISEK BISWAS",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "30.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "76.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "75.00",
+                    "I": "22.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "75.00",
+                    "I": "12.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "75.00",
+                    "I": "52.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR21CS005",
+                "name": "AJISH V",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR21CS055",
+                "name": "ROHAN MISTRY",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "75.00",
+                    "I": "52.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS001",
+                "name": "ABHIJITH K B",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "79.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "82.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "78.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "64.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS002",
+                "name": "ABHIJITH K V",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "88.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "82.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "64.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS003",
+                "name": "ABHINAND",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "66.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS004",
+                "name": "ADITHYAN P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "85.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "83.00",
+                    "I": "63.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "92.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS005",
+                "name": "AJAY ALEX MATHEW",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "84.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "67.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS006",
+                "name": "AKASH KUMAR R",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "85.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS007",
+                "name": "AKSHAY SAJU",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "29.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "67.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "83.00",
+                    "I": "61.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS008",
+                "name": "ALNA ELSA TOM",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "66.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "92.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS009",
+                "name": "AMAL SOORAJ V",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS010",
+                "name": "AMARTHYA SHEKHAR",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "80.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "85.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "78.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS011",
+                "name": "AMRITA LAKSHMI S",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS012",
+                "name": "ANAMIKA S NAIR",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS013",
+                "name": "ANGELIA ALOOR SHAJU",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "80.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "92.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "96.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS014",
+                "name": "ANIRUDH P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "97.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS015",
+                "name": "ANJALI KRISHNA",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS017",
+                "name": "ANTONY C J",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS018",
+                "name": "ANUPRIYA PRADEEP",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS019",
+                "name": "ANU THOMAS K",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS020",
+                "name": "ASHIQUE",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "82.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "67.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "62.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS021",
+                "name": "ASWIN KRISHNA R",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS022",
+                "name": "ASWIN M",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "86.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "76.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "87.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "76.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "78.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "75.00",
+                    "I": "65.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS023",
+                "name": "AYUSH P S",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "86.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "88.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "87.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "85.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "64.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "92.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS024",
+                "name": "DEVANGANA K",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "88.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS025",
+                "name": "DEVIKA RAJEEVAN",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS026",
+                "name": "DIYA PRATHEEP",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "97.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "92.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS027",
+                "name": "DRISNA S",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "100.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS028",
+                "name": "FATHIMA JINSHA B P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS029",
+                "name": "FIERO JAIN",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "97.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS030",
+                "name": "GAYATHRI S AJITH",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS031",
+                "name": "GOKUL K",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "64.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS032",
+                "name": "HANANA K",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "77.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "88.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "81.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "74.00",
+                    "I": "30.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "68.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS033",
+                "name": "HARICHANDANA M",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "84.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "67.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "92.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS034",
+                "name": "HARSH YADAV",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "76.00",
+                    "I": "33.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "75.00",
+                    "I": "58.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS035",
+                "name": "HEMANTH KRISHNA A B",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "67.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS036",
+                "name": "HENA FATHIMA M",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "88.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS037",
+                "name": "HRIDYA SIVARAJAN",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS038",
+                "name": "HRIDYA V M",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "97.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "67.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "68.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS039",
+                "name": "HUSNA C P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "97.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS040",
+                "name": "JENITA JOSEPH",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "68.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS041",
+                "name": "JESVIN P D",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "68.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "68.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS042",
+                "name": "JOHN PAUL",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "85.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS043",
+                "name": "JOHNS ANDREW",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "77.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "79.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "84.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "76.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "78.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "83.00",
+                    "I": "65.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS044",
+                "name": "JOVIN JOHNY KASSI",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS045",
+                "name": "K GOVIND",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS046",
+                "name": "MARREA TREASA",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "80.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "88.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "88.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS047",
+                "name": "MOHAMMED IRSHAD",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "84.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "39.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "68.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS048",
+                "name": "MOHAMMED ISMAIL",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "87.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS050",
+                "name": "MUKHTAR AHMED",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS051",
+                "name": "NAVEEN RAMADAS",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS052",
+                "name": "NIVEDITHA RAJESH",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "88.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS053",
+                "name": "PARTHAN RAJESH",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "97.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS054",
+                "name": "PRANAV K THRIDEEP",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS055",
+                "name": "RAHIL RAHMAN P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "80.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "87.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS056",
+                "name": "ROBIN V ANTONY",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "97.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS057",
+                "name": "ROHIT RENJI GEORGE",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "80.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "63.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS058",
+                "name": "SANU SABITH K C",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS059",
+                "name": "SENU K VARGHESE",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "75.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "82.00",
+                    "I": "62.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS060",
+                "name": "SHREYA JAYARAJ",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "91.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "94.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS061",
+                "name": "SIVAPRASAD",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "91.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "87.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "38.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "35.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "69.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS062",
+                "name": "SNEHA ARAVIND",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS063",
+                "name": "SREERAM P",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "97.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "100.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "92.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS064",
+                "name": "SRICHAND SURESH",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "90.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS065",
+                "name": "TONY JAMES",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "80.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "97.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "88.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "70.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS066",
+                "name": "VARALAKSHMI T G",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "45.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "100.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS067",
+                "name": "VARUN P GEORGE",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "37.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "40.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "87.00",
+                    "I": "36.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS068",
+                "name": "V GOPIKA UNNI",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "92.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "87.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "88.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "100.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "91.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "83.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "71.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS069",
+                "name": "VISHNU T C",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "100.00",
+                    "I": "43.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "97.00",
+                    "I": "49.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "90.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "42.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "96.00",
+                    "I": "41.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "72.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "100.00",
+                    "I": "74.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              },
+              {
+                "registerNo": "TCR22CS070",
+                "name": "WREN",
+                "subjects": {
+                  "MCN301": {
+                    "name": "Disaster Management",
+                    "A": "95.00",
+                    "I": "46.00",
+                    "E": "Yes"
+                  },
+                  "CST301": {
+                    "name": "Formal Languages and Automata Theory",
+                    "A": "100.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CST303": {
+                    "name": "Computer Networks",
+                    "A": "94.00",
+                    "I": "50.00",
+                    "E": "Yes"
+                  },
+                  "CST305": {
+                    "name": "System Software",
+                    "A": "94.00",
+                    "I": "47.00",
+                    "E": "Yes"
+                  },
+                  "CST307": {
+                    "name": "Microprocessors and Microcontrollers",
+                    "A": "94.00",
+                    "I": "48.00",
+                    "E": "Yes"
+                  },
+                  "CST309": {
+                    "name": "Management of Software Systems",
+                    "A": "91.00",
+                    "I": "44.00",
+                    "E": "Yes"
+                  },
+                  "CSL331": {
+                    "name": "System Software and Microprocessors Lab",
+                    "A": "100.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CSL333": {
+                    "name": "Database Management Systems Lab",
+                    "A": "91.00",
+                    "I": "73.00",
+                    "E": "Yes"
+                  },
+                  "CST395": {
+                    "name": "Neural Networks and Deep Learning",
+                    "A": null,
+                    "I": null,
+                    "E": null
+                  }
+                }
+              }
+            ]
+          },
+          "uploadDate": "2025-04-02T18:58:39.549Z"
+        }
+      ],
+      "students": [
+        {
+          "id": "1",
+          "classId": "1",
+          "name": "Student1",
+          "rollNumber": "1",
+          "cgpa": "8",
+          "gender": "Male",
+          "requests": [
+            {
+              "id": "req-1742925388427",
+              "category": "scholarship",
+              "status": "Approved",
+              "fileName": "1742925388404-Blackjack_Flowchart.pdf",
+              "date": "2025-03-25T17:56:28.427Z"
+            },
+            {
+              "id": "req-1743179716499",
+              "category": "scholarship",
+              "status": "Approved",
+              "fileName": "1743179716480-Angelia - Roll No.pdf",
+              "date": "2025-03-28T16:35:16.499Z"
+            },
+            {
+              "id": "act-1743315722672",
+              "category": "certificate",
+              "status": "Approved",
+              "fileName": "1743315722578-ScholarshipApplications (1).jsx",
+              "date": "2025-03-30T06:22:02.672Z",
+              "activityType": "NSS",
+              "level": "I",
+              "maxPoints": 5,
+              "awardedPoints": 4,
+              "proofUrl": "/activity-uploads/1743315722578-ScholarshipApplications (1).jsx"
+            },
+            {
+              "id": "act-1743659316548",
+              "category": "certificate",
+              "status": "Rejected",
+              "fileName": "1743659316506-RegisteredStudentBillReport (Generated on 09_02_2025 12_07 PM).pdf",
+              "date": "2025-04-03T05:48:36.549Z",
+              "activityType": "Technical Event",
+              "level": "I",
+              "maxPoints": 8,
+              "awardedPoints": 0,
+              "proofUrl": "/activity-uploads/1743659316506-RegisteredStudentBillReport (Generated on 09_02_2025 12_07 PM).pdf"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "classId": "1",
+          "name": "Student2",
+          "rollNumber": "2",
+          "cgpa": "9.5",
+          "gender": "Male",
+          "requests": [
+            {
+              "id": "req-1742638264412",
+              "category": "scholarship",
+              "status": "Rejected",
+              "fileName": "1742638264399-paymentreceipt_22B070120005 (1).pdf",
+              "date": "2025-03-22T10:11:04.412Z"
+            },
+            {
+              "id": "act-1743316050962",
+              "category": "certificate",
+              "status": "Approved",
+              "fileName": "1743316050934-StudentDashboard (2).jsx",
+              "date": "2025-03-30T06:27:30.962Z",
+              "activityType": "Sports",
+              "level": "II",
+              "maxPoints": 12,
+              "awardedPoints": 9,
+              "proofUrl": "/activity-uploads/1743316050934-StudentDashboard (2).jsx"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Student3",
+          "rollNumber": "3",
+          "cgpa": "9",
+          "gender": "Female",
+          "requests": []
+        }
+      ],
+      "scholarshipApplications": [
+        {
+          "id": "req-1742638264412",
+          "studentId": "2",
+          "studentName": "Student2",
+          "category": "scholarship",
+          "status": "Rejected",
+          "fileName": "1742638264399-paymentreceipt_22B070120005 (1).pdf",
+          "date": "2025-03-22T10:11:04.412Z"
+        },
+        {
+          "id": "req-1742925388427",
+          "studentId": "1",
+          "studentName": "Student1",
+          "category": "scholarship",
+          "status": "Approved",
+          "fileName": "1742925388404-Blackjack_Flowchart.pdf",
+          "date": "2025-03-25T17:56:28.427Z"
+        },
+        {
+          "id": "req-1743179716499",
+          "studentId": "1",
+          "studentName": "Student1",
+          "category": "scholarship",
+          "status": "Approved",
+          "fileName": "1743179716480-Angelia - Roll No.pdf",
+          "date": "2025-03-28T16:35:16.499Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "CSE S4",
+      "semesters": 4,
+      "tutorId": "22",
+      "teacher": "Ms",
+      "studentsCount": 35,
+      "archived": false
+    },
+    {
+      "id": "1743601494657",
+      "name": "CSE S2",
+      "semesters": 2,
+      "teacher": "Sir 1",
+      "studentsCount": "30",
+      "students": [],
+      "archived": true,
+      "tutorId": "11"
+    }
+  ],
+  "tutors": [
+    {
+      "id": "11",
+      "username": "tutor1",
+      "password": "pass",
+      "name": "Sir 1",
+      "classId": "1"
+    },
+    {
+      "id": "22",
+      "username": "tutor2",
+      "password": "pass",
+      "name": "Sir 2",
+      "classId": "2"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "username": "student1",
+      "password": "pass",
+      "classId": "1"
+    },
+    {
+      "id": "2",
+      "username": "student2",
+      "password": "pass",
+      "classId": "1"
+    }
+  ],
+  "activityPoints": [
+    {
+      "id": "act-1743315722672",
+      "studentId": "1",
+      "studentName": "Student1",
+      "classId": "1",
+      "activityType": "NSS",
+      "level": "I",
+      "maxPoints": 5,
+      "proofUrl": "/activity-uploads/1743315722578-ScholarshipApplications (1).jsx",
+      "pointsAwarded": 4,
+      "status": "Approved",
+      "date": "2025-03-30T06:22:02.672Z",
+      "decisionDate": "2025-03-30T06:23:13.246Z"
+    },
+    {
+      "id": "act-1743316050962",
+      "studentId": "2",
+      "studentName": "Student2",
+      "classId": "1",
+      "activityType": "Sports",
+      "level": "II",
+      "maxPoints": 12,
+      "proofUrl": "/activity-uploads/1743316050934-StudentDashboard (2).jsx",
+      "pointsAwarded": 9,
+      "status": "Approved",
+      "date": "2025-03-30T06:27:30.962Z",
+      "decisionDate": "2025-03-30T06:27:47.288Z"
+    },
+    {
+      "id": "act-1743659316548",
+      "studentId": "1",
+      "studentName": "Student1",
+      "classId": "1",
+      "activityType": "Technical Event",
+      "level": "I",
+      "maxPoints": 8,
+      "proofUrl": "/activity-uploads/1743659316506-RegisteredStudentBillReport (Generated on 09_02_2025 12_07 PM).pdf",
+      "pointsAwarded": 0,
+      "status": "Rejected",
+      "date": "2025-04-03T05:48:36.549Z",
+      "decisionDate": "2025-04-03T05:48:49.882Z"
+    }
+  ]
+}

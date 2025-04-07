@@ -1,0 +1,116 @@
+@import 'datatables.net-dt';
+@import 'datatables.net-responsive-dt';
+@import 'datatables.net-select-dt';
+
+.dataTable {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .dataTable th {
+    background-color: var(--bg-tertiary);
+    color: var(--text-primary);
+    padding: 12px;
+    text-align: left;
+    border-bottom: 2px solid var(--bg-secondary);
+  }
+  
+  .dataTable td {
+    padding: 10px;
+    border-bottom: 1px solid var(--bg-secondary);
+  }
+  
+  .dataTable tr:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+  
+  .dataTable .dataTables_wrapper {
+    margin: 20px 0;
+  }
+  
+  .dataTable .dataTables_paginate {
+    margin-top: 10px;
+  }
+  
+  .dataTable .dataTables_paginate .paginate_button {
+    padding: 5px 10px;
+    margin: 0 2px;
+    border: 1px solid var(--bg-tertiary);
+    border-radius: 4px;
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+    cursor: pointer;
+  }
+  
+  .dataTable .dataTables_paginate .paginate_button:hover {
+    background-color: var(--bg-tertiary);
+    color: white;
+  }
+  
+  .dataTable .dataTables_paginate .paginate_button.current {
+    background-color: var(--bg-primary);
+    color: white;
+  }
+  
+  .dataTable .dataTables_filter input {
+    border: 1px solid var(--bg-tertiary);
+    border-radius: 4px;
+    padding: 5px;
+  }
+  
+  .dataTable .dataTables_length select {
+    border: 1px solid var(--bg-tertiary);
+    border-radius: 4px;
+    padding: 5px;
+  }
+
+
+  .students-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+  
+  .students-table thead th {
+    position: sticky;
+    top: 0;
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+    font-weight: 600;
+    text-align: left;
+    padding: 12px 16px;
+    border-bottom: 2px solid var(--bg-tertiary);
+  }
+  
+  .students-table tbody td {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--bg-tertiary);
+    text-align: left;
+  }
+  
+  .students-table tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.02);
+  }
+  
+  .students-table tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  /* Add to your CSS file */
+.dt-align-fix thead th {
+  padding: 12px 16px !important;
+  text-align: left !important;
+  font-weight: 600;
+  vertical-align: middle;
+}
+
+.dt-align-fix tbody td {
+  padding: 12px 16px !important;
+  text-align: left !important;
+  vertical-align: middle;
+}
+
+.dt-align-fix tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.02) !important;
+}
+  
