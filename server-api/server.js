@@ -498,5 +498,33 @@ app.put("/classes/:classId", (req, res) => {
   }
 });
 
+app.delete('/classes/:id/internals', (req, res) => {
+  const classId = req.params.id; // Get class ID from the URL
+  const semester = req.query.semester; // Get semester from query parameters
+
+  // Read the current database
+  const db = readDB();
+
+  // Find the class by ID
+  const classData = db.classes.find(c => c.id === classId);
+  if (!classData) {
+      return res.status(404).json({ message: 'Class not found' });
+  }
+
+  // Find the index of the internal record for the specified semester
+  const internalIndex = classData.internals.findIndex(internal => internal.semester === semester);
+  if (internalIndex === -1) {
+      return res.status(404).json({ message: 'Internal record not found for this semester' });
+  }
+
+  // Remove the internal record
+  classData.internals.splice(internalIndex, 1);
+
+  // Write the updated data back to the database
+  writeDB(db);
+
+  return res.status(200).json({ message: 'Internal record deleted successfully' });
+});
+
 // Start Server
 app.listen(PORT, () => console.log(`✅ Server running on port ${PORT}`));

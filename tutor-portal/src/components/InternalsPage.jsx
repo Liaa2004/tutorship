@@ -10,6 +10,7 @@ import {
   X,
   Copy,
   FileDown,
+  Trash2
 } from "lucide-react";
 import * as XLSX from "xlsx"; // Import the xlsx library
 
@@ -21,6 +22,7 @@ const InternalsPage = () => {
   const [totalSemesters, setTotalSemesters] = useState(0);
   const [expandedSemester, setExpandedSemester] = useState(null);
   const [uploading, setUploading] = useState({});
+  const [deleting, setDeleting]=useState({});
   const [files, setFiles] = useState(() => {
     const savedFiles = localStorage.getItem(`class_${id}_files`);
     return savedFiles ? JSON.parse(savedFiles) : {};
@@ -30,7 +32,7 @@ const InternalsPage = () => {
   const [showSearchResults, setShowSearchResults] = useState(false);
   const [semesterSearchQuery, setSemesterSearchQuery] = useState({});
   const [semesterSearchResults, setSemesterSearchResults] = useState({});
-  const [replaceConfirm, setReplaceConfirm] = useState(null);
+  const [deleteConfirm, setDeleteConfirm] = useState(null);
 
   useEffect(() => {
     fetchInternalsData();
@@ -280,7 +282,33 @@ const InternalsPage = () => {
       console.error("Error uploading file:", error);
     } finally {
       setUploading((prev) => ({ ...prev, [sem]: false }));
-      setReplaceConfirm(null);
+    }
+  };
+
+  const handleDeleteFile = async (sem) => {
+    setDeleting((prev) => ({ ...prev, [sem]: true }));
+  
+    try {
+      // Only try to delete if the semester exists in internals
+      const semesterExists = internals.some(internal => internal.semester === sem.toString());
+      if (semesterExists) {
+        await axios.delete(`http://localhost:4000/classes/${id}/internals?semester=${sem}`);
+      }
+  
+      // Update local state
+      setFiles((prev) => {
+        const newFiles = { ...prev };
+        delete newFiles[sem];
+        return newFiles;
+      });
+  
+      // Refresh data
+      fetchInternalsData();
+    } catch (error) {
+      console.error("Error deleting file:", error);
+    } finally {
+      setDeleting((prev) => ({ ...prev, [sem]: false }));
+      setDeleteConfirm(null);
     }
   };
 
@@ -305,34 +333,60 @@ const InternalsPage = () => {
   };
 
   const renderSemesterContent = (sem) => {
-    if (replaceConfirm === sem) {
+    // Check if this semester exists in the internals data
+    const semesterExists = internals.some(internal => internal.semester === sem.toString());
+    
+    if (!semesterExists) {
+      return (
+        <div className="p-3">
+          <label className="flex flex-col items-center justify-center w-full p-4 border-2 border-dashed rounded-lg cursor-pointer hover:bg-gray-50">
+            <div className="flex flex-col items-center justify-center">
+              <Upload size={20} className="mb-2 text-gray-500" />
+              <p className="text-sm text-gray-500">
+                <span className="font-medium">Upload Internals PDF</span>
+              </p>
+            </div>
+            <input
+              type="file"
+              accept=".pdf"
+              onChange={(e) => handleFileUpload(sem, e)}
+              className="hidden"
+            />
+          </label>
+          {uploading[sem] && (
+            <p className="text-center text-sm text-gray-500 mt-2">Uploading...</p>
+          )}
+        </div>
+      );
+    }
+  
+    if (deleteConfirm === sem) {
       return (
         <div className="p-3 space-y-3">
           <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-3 mb-3">
             <p className="text-yellow-800 text-sm mb-2">
-              Are you sure you want to replace the existing PDF?
+              Are you sure you want to delete this semester's data? This action cannot be undone.
             </p>
             <div className="flex gap-2">
               <button
-                onClick={() => setReplaceConfirm(null)}
+                onClick={() => setDeleteConfirm(null)}
                 className="px-3 py-1.5 text-sm bg-gray-200 rounded hover:bg-gray-300"
               >
                 Cancel
               </button>
-              <label className="px-3 py-1.5 text-sm bg-blue-600 text-white rounded hover:bg-blue-700 cursor-pointer">
-                Confirm Replace
-                <input
-                  type="file"
-                  accept=".pdf"
-                  onChange={(e) => handleFileUpload(sem, e)}
-                  className="hidden"
-                />
-              </label>
+              <button
+                onClick={() => handleDeleteFile(sem)}
+                className="px-3 py-1.5 text-sm bg-red-600 text-white rounded hover:bg-red-700"
+                disabled={deleting[sem]}
+              >
+                {deleting[sem] ? "Deleting..." : "Confirm Delete"}
+              </button>
             </div>
           </div>
         </div>
       );
     }
+  
     if (files[sem]) {
       return (
         <div className="p-3 space-y-3">
@@ -357,11 +411,11 @@ const InternalsPage = () => {
               </>
             )}
             <button
-              onClick={() => setReplaceConfirm(sem)}
-              className="text-sm flex items-center text-gray-600 hover:text-gray-800"
+              onClick={() => setDeleteConfirm(sem)}
+              className="text-sm flex items-center text-red-600 hover:text-red-800"
             >
-              <Upload size={14} className="mr-1" />
-              Replace PDF
+              <Trash2 size={14} className="mr-1" />
+              Delete Semester Data
             </button>
           </div>
 
